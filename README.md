@@ -6,10 +6,12 @@ This is a random password generator where you're able to click a generate button
 
 ## Deployment
 
+https://jasonmattheww.github.io/password-generator/
+
 ## Usage
 
 ![Getting Started](./images/password-generator-preview.gif)
 
 ## Code Source
 
-Got some help from the form in Stack Overflow https://stackoverflow.com/questions/59904757/random-password-generator-javascript-not-returning-password
+Got some help from this form in Stack Overflow https://stackoverflow.com/questions/59904757/random-password-generator-javascript-not-returning-password
